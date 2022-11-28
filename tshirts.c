@@ -18,8 +18,8 @@ int main() {
     assert(size(40) == 'M');
     assert(size(43) == 'L');
     
-    assert(size(38) == 'L');
-    assert(size(42) == 'L');
+    assert(size(38) == 'S');
+    assert(size(42) == 'M');
     
     printf("All is well (maybe!)\n");
     return 0;
